@@ -1,2 +1,2 @@
-# clone-tabnews
-Um projeto de clonagem do https://tabnews.com.br para aprendizagem. Desenvolvimento de ponta a ponta.
+# tabclone.com.br
+Desenvolvimento ponta a ponta de um clone do [Tabnews](https://tabnews.com.br) para aprendizagem. 
