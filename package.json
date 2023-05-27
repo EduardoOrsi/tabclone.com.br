@@ -1,0 +1,16 @@
+{
+  "name": "tabclone.com.br",
+  "version": "1.0.0",
+  "description": "Desenvolvimento ponta a ponta de um clone do [Tabnews](https://tabnews.com.br) para aprendizagem.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "EduOrsi",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
